@@ -44,5 +44,8 @@ public class Task extends AbstractEntity {
     private Status status;
 
 //    todo: parent_task_id
-//    todo: priority_id
+
+    @ManyToOne
+    private Priority priority;
+
 }
