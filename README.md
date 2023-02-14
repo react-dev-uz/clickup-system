@@ -7,4 +7,4 @@
 
 ### Tabellar diagrammasi
 
-![Blankdiagram1.png](assets/Blank diagram.png)
+![Diagram](https://github.com/DreamCode-Uz/clickup-system/blob/master/assets/Blank%20diagram.png)
